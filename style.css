@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+.banner {
+    display: block;
+    height: 300px;
+    width: 1000px;
+   
+}
+
+header {
+    height: 350px;
+    width: 1000px;
+
+}
+
+h1 {
+    position: relative;
+    bottom: 300px;
+    font-size: 50px;
+    background-color: transparent;
+
+}
+
+.encabezado {
+    height: 300px;
+    width: 1000px;
+    
+}
+
+.logo {
+    display: block;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 850px;
+    bottom: 80px;
+    z-index: 1;
+    background-color: aliceblue;
+    border: 1px solid black;
+
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 140px;
+    padding-left: 20px;
+    
+ 
+}
+nav {
+    width: 150px;
+    display: inline;
+    bottom: 10px;
+    
+}
+.menu {
+    display: block;
+    position: relative;
+    width: 100px;
+    top: 40px;
+}
+
+.menu a {
+    display: block;
+    width: 100px;
+    margin: 30px;
+    
+}
+
+article {
+    display: flex;
+    position: relative;
+    left: 150px;
+    bottom: 120px;
+    width: 800px;
+    
+}
+
+.text {
+    width: 850px;
+    display: inline;
+    
+    
+}
+
+.text p{
+    width: 850px;
+    display: inline;
+    
+    
+}
+p {
+    width: 850px;
+    
+    
+}
+
+.text h3{
+    width: 850px;
+    display: inline;
+    
+}
