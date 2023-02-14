@@ -1,11 +1,17 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
-    letter-spacing: 2px;
-    width: 100%;
 
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+
+
+}
+
+body {
+    max-width: 100vw;
+    min-height: 100vh;
 }
 
 header {
@@ -59,7 +65,7 @@ h2 {
     margin: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    
+
 
 
 
@@ -67,7 +73,7 @@ h2 {
 
 .menu {
     display: block;
- 
+
 }
 
 nav {
